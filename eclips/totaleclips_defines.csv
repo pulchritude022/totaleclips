@@ -11,6 +11,8 @@ t1slot,T1
 t2slot,T2
 t3slot,T3
 t4slot,T4
+t5slot,T5
+t6slot,T6
 maxprojectcores,4
 lock,<img=res\icons8-lock-filled-100.png;1.0;0;-6>
 unlock,<img=res\icons8-padlock-100.png;1.0;0;-6>
