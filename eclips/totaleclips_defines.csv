@@ -1,0 +1,27 @@
+Define,Value
+clip,<img=res\x2-clips-no-border.png;1.0;0;-6>
+trust,<img=res\icons8-circled-t-96.png;1.0;0;-6>
+repeat,<img=res\icons8-repeat-one-filled-100.png;1.0;0;-6>
+infinite,<img=res\icons8-infinity-filled-100.png;1.0;0;-6>
+arrow,<img=res\icons8-right-100.png;1.0;0;-6>
+flops,FLOPS
+upgrade,<img=res\icons8-arrow-filled-100.png;1.0;0;-6>
+cpucore,<img=res\icons8-sugar-cube-filled-100.png;1.0;0;-6>
+t1slot,T1
+t2slot,T2
+t3slot,T3
+t4slot,T4
+maxprojectcores,4
+lock,<img=res\icons8-lock-filled-100.png;1.0;0;-6>
+unlock,<img=res\icons8-padlock-100.png;1.0;0;-6>
+free,free
+project,Project
+expand,Unlock
+improve,Upgrade
+industry,Manufacture
+m1core,Millennium I
+m2core,Millennium II
+m3core,Millennium III
+mccore,Multi-Core
+aicore,AI
+qucore,Quantum
