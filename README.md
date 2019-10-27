@@ -9,5 +9,24 @@ Built using [Version 1.0.0.2](https://github.com/nhmkdev/cardmaker/releases/tag/
 2. Extract and run `CardMaker.exe`
 3. Go to `File` | `Open Project...` and open `eclips/totaleclips.cmp`
 
+## Development
+### Export the project
+1. Click `File` | `Export Project to PDF...`
+2. Click `OK`
+
+### Build 'Bonus Token' Images
+1. Right-click the "Bonuses" Layout and select `Export Card Layout as Images...`
+2. Set the `File Name Format` to `@[filename]`
+3. Set the output folder to `totaleclips\eclips\res`
+4. Click `OK`
+5. Press `F6` to "Refresh the Image Cache" to load the new images
+
+## Troubleshooting
+#### Guide
+A copy of the guide has been source controlled with the project and is located in the `docs/` folder (Download link needed, where did I find this??).
+
+#### Images showing up as `BAD NAME` or `BAD REFERENCE`
+Ensure that the layout type is set to `FormattedText` and not `Text`
+
 #### Additional Resources:
 [Card Maker User's Guild](https://www.boardgamegeek.com/guild/2250)

@@ -1,5 +1,5 @@
-Count,Name
-1,Paperclips R' Us
-1,Perry's Paperclip Warehouse
-1,Discount Paperclips
-1,iClip: The Paperclip Company
+Count,Name,Image
+1,Paperclips R' Us,res\noun_Meeple_1269_red.png
+1,Perry's Paperclip Warehouse,res\noun_Meeple_1269_yellow.png
+1,Discount Paperclips,res\noun_Meeple_1269_blue.png
+1,iClip: The Paperclip Company,res\noun_Meeple_1269_black.png
