@@ -1,37 +1,37 @@
-Count,Name,Stage,Type,Image,BaseFlopsLow,BaseFlopsHigh,CompletionFlops,BaseTrust,BaseClips,CompletionTrust,CompletionClips,BonusTrust,BonusClips,BonusSpecial
-1,"Hello, World!",1,,res\icons8-calculator-500.png,0,1,2,1,0,2,0,0,0,@[repeat]: @[trust] @[arrow] @[project] +1 @[flops]
-1,Email Spam Filter,1,,res\icons8-deleted-message-500.png,0,1,2,1,0,2,0,0,0,@[repeat]: @[trust] @[arrow] @[expand] +1 @[flops]
-1,Photo Annotation,1,,res\icons8-photo-gallery-500.png,0,1,2,1,0,2,0,0,0,@[repeat]: @[trust] @[arrow] @[improve] +1 @[flops]
-1,Write a Haiku,1,,res\icons8-quill-with-ink-500.png,0,1,2,1,0,2,0,0,0,Get 1 @[m1core] Core
-1,Speech to Text,1,,res\icons8-ask-question-500.png,0,1,2,1,0,2,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,Beat Chess Grandmaster,1,,res\icons8-knight-500.png,0,2,3,1,0,3,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,Cook the Perfect Steak,1,,res\icons8-steak-very-hot-500.png,0,2,3,1,0,3,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,Automatic Cruise Control,1,,res\icons8-steering-wheel-500.png,0,2,3,1,0,3,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,General Intelligence,1,end,res\icons8-critical-thinking-500.png,0,4,5,0,0,0,0,4,2,
-1,Cure Male Pattern Baldness,2,,res\icons8-user-male-filled-500.png,0,2,3,2,0,3,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,Save Polar Bears,2,,res\icons8-bear-500.png,0,2,3,1,0,3,0,0,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core
-1,Pass the Turing Test,2,,res\icons8-chat-500.png,0,3,4,1,0,3,1,0,0,@[repeat]: @[trust] @[arrow] @[project] +2 @[flops]
-1,Self Driving Cars,2,,res\icons8-traffic-jam-500.png,0,3,4,1,0,3,1,0,0,@[repeat]: @[trust] @[arrow] @[expand] +2 @[flops]
-1,Write a Best Selling Novel,2,,res\icons8-literature-500.png,0,3,4,1,0,3,1,0,0,@[repeat]: @[trust] @[arrow] @[improve] +2 @[flops]
-1,Beat the Stock Market,2,,res\icons8-stocks-500.png,0,4,5,1,0,4,0,0,1,Get 1 @[m1core] Core
-1,3D Printed Homes,2,,res\icons8-real-estate-500.png,0,4,5,1,0,4,0,0,1,@[repeat]: @[trust]
-1,Edit Human Genome,2,,res\icons8-dna-helix-500.png,0,4,5,1,0,4,0,0,1,@[repeat]: @[trust]
-1,Singularity,2,end,res\icons8-artificial-intelligence-filled-500.png,0,7,8,0,0,0,0,5,3,
-1,World Peace,3,,res\icons8-dove-500.png,0,5,6,2,0,4,0,0,1,@[repeat]: @[trust]
-1,End World Hunger,3,,res\icons8-international-food-500.png,0,5,6,1,0,4,0,0,1,@[repeat]: @[trust]
-1,End Poverty,3,,res\icons8-receive-cash-500.png,0,6,7,1,0,4,0,0,1,Get 2 @[m1core] Core
-1,Free Universal Education,3,,res\icons8-graduation-cap-500.png,0,6,7,2,0,4,0,0,1,@[repeat]: @[trust] @[arrow] @[improve] +3 @[flops]
-1,Solve Climate Change,3,,res\icons8-iceberg-500.png,0,7,8,1,0,4,1,0,0,@[repeat]: @[trust] @[arrow] @[expand] +3 @[flops]
-1,Cure Disease,3,,res\icons8-syringe-500.png,0,7,8,2,0,4,1,0,0,@[repeat]: @[trust] @[arrow] @[project] +3 @[flops]
-1,Automate all Jobs,3,,res\icons8-factory-500.png,0,8,9,1,0,4,1,0,0,@[repeat]: All @[qucore] Cores +1 @[flops]
-1,Nanotechnology,3,,res\icons8-microscope-500.png,0,8,9,2,0,4,1,0,0,@[repeat]: All @[mccore] +1 @[flops]
-1,Take Over the World,3,end,res\icons8-mushroom-cloud-500.png,0,11,12,0,0,0,0,0,5,
-1,Tap the Planet Core for Energy,4,,res\icons8-sun-500.png,0,9,10,1,1,1,2,0,1,@[infinite]: @[trust] @[arrow] Re-roll 1 Core
-1,Enslave the Human Population,4,,res\icons8-handcuffs-500.png,0,9,10,0,1,1,2,0,1,@[infinite]: @[trust] @[arrow] +2 @[flops]
-1,Build Self-Replicating Factories,4,,res\icons8-manufacturing-500.png,0,11,12,1,1,2,2,0,1,@[repeat]: Unlock any Slot
-1,Harvest Planetary Biomass,4,,res\icons8-sprout-500.png,0,11,12,0,1,1,2,0,1,@[repeat]: @[upgrade]@[cpucore] lvl <b>IV</b>
-1,Planetary Mass Extinction,4,,res\icons8-poison-500.png,0,13,14,1,1,1,3,0,2,@[repeat]: @[clip]@[clip]
-1,Understand the Fabric of the Cosmos,4,,res\icons8-atom-editor-500.png,0,13,14,1,1,2,3,0,2,@[infinite]: @[trust]@[trust] @[arrow] @[clip]
-1,Faster than Light Space Travel,4,,res\icons8-running-rabbit-500.png,0,15,16,1,1,1,3,0,2,@[repeat]: All Dedicated Cores +2 @[flops]
-1,Discover the Meaning of Life,4,,res\icons8-heart-outline-500.png,0,15,16,3,1,1,3,0,2,@[repeat]: All Cores +1 @[flops]
-1,Conquer the Galaxy,4,end,res\icons8-universe-500.png,0,19,20,0,1,0,0,0,5,@[clip]@[clip]@[clip]@[clip]@[clip]
+Count,Name,Stage,Type,Image,BaseFlopsLow,BaseFlopsHigh,CompletionFlops,BaseTrust,BaseClips,CompletionTrust,CompletionClips,BonusSpecialOld,BonusSpecial
+1,"Hello, World!",1,,res\001-payment-terminal.png,0,1,2,1,0,2,0,@[repeat]: @[trust] @[arrow] @[project] +1 @[flops],<img=res\bonuses_1flopsproject.png;3.0;0;0>
+1,Email Spam Filter,1,,res\002-spam.png,0,1,2,1,0,2,0,@[repeat]: @[trust] @[arrow] @[expand] +1 @[flops],<img=res\bonuses_1flopsunlock.png;3.0;0;0>
+1,Photo Annotation,1,,res\003-frame.png,0,1,2,1,0,2,0,@[repeat]: @[trust] @[arrow] @[improve] +1 @[flops],<img=res\bonuses_1flopsupgrade.png;3.0;0;0>
+1,Write a Haiku,1,,res\004-scroll.png,0,1,2,1,0,2,0,Get 1 @[m1core] Core,<img=res\bonuses_winties.png;3.0;0;0>
+1,Speech to Text,1,,res\005-chat.png,0,1,2,1,0,2,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0>
+1,Beat Chess Grandmaster,1,,res\006-pawn.png,0,2,3,1,0,3,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,+<b>1x</b> @[cpucore] lvl <b>I</b>
+1,Cook the Perfect Steak,1,,res\007-steak.png,0,2,3,1,0,3,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0>
+1,Automatic Cruise Control,1,,res\008-driving.png,0,2,3,1,0,3,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0>
+1,General Intelligence,1,end,res\009-chip.png,0,4,5,0,0,0,0,,@[trust]@[trust]@[trust]@[trust]\n@[clip]@[clip]
+1,Cure Male Pattern Baldness,2,,res\011-skin.png,0,2,3,2,0,3,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0>
+1,Save Polar Bears,2,,res\012-polar-bear.png,0,2,3,1,0,3,0,@[repeat]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0>
+1,Pass the Turing Test,2,,res\013-story.png,0,3,4,1,0,3,1,@[repeat]: @[trust] @[arrow] @[project] +2 @[flops],<img=res\bonuses_1flopsproject.png;3.0;0;0><img=res\bonuses_1flopsproject.png;3.0;0;0>
+1,Self Driving Cars,2,,res\014-car.png,0,3,4,1,0,3,1,@[repeat]: @[trust] @[arrow] @[expand] +2 @[flops],<img=res\bonuses_1flopsunlock.png;3.0;0;0><img=res\bonuses_1flopsunlock.png;3.0;0;0>
+1,Write a Best Selling Novel,2,,res\015-books.png,0,3,4,1,0,3,1,@[repeat]: @[trust] @[arrow] @[improve] +2 @[flops],<img=res\bonuses_1flopsupgrade.png;3.0;0;0><img=res\bonuses_1flopsupgrade.png;3.0;0;0>
+1,Beat the Stock Market,2,,res\016-statistics.png,0,4,5,1,0,4,0,Get 1 @[m1core] Core,+<b>1x</b> @[cpucore] lvl <b>I</b>\n@[clip]
+1,3D Printed Homes,2,,res\017-house.png,0,4,5,1,0,4,0,@[repeat]: @[trust],@[trust]@[trust]@[clip]
+1,Edit Human Genome,2,,res\018-genetic-modification.png,0,4,5,1,0,4,0,@[repeat]: @[trust],@[trust]@[trust]@[clip]
+1,Singularity,2,end,res\010-cloud-computing.png,0,7,8,0,0,0,0,,@[trust]@[trust]@[trust]@[trust]@[trust]\n@[clip]@[clip]@[clip]
+1,World Peace,3,,res\019-peace-symbol.png,0,5,6,2,0,4,0,@[repeat]: @[trust],@[trust]@[trust]@[clip]
+1,End World Hunger,3,,res\020-fish.png,0,5,6,1,0,4,0,@[repeat]: @[trust],@[trust]@[trust]@[clip]
+1,End Poverty,3,,res\021-salary.png,0,6,7,1,0,4,0,Get 2 @[m1core] Core,+<b>2x</b> @[cpucore] lvl <b>I</b>\n@[clip]
+1,Free Universal Education,3,,res\022-graduation.png,0,6,7,2,0,4,0,@[repeat]: @[trust] @[arrow] @[improve] +3 @[flops],<img=res\bonuses_2flops.png;3.0;0;0>
+1,Solve Climate Change,3,,res\023-glacier.png,0,7,8,1,0,4,1,@[repeat]: @[trust] @[arrow] @[expand] +3 @[flops],<img=res\bonuses_2flops.png;3.0;0;0>
+1,Cure Disease,3,,res\024-syringe.png,0,7,8,2,0,4,1,@[repeat]: @[trust] @[arrow] @[project] +3 @[flops],<img=res\bonuses_2flops.png;3.0;0;0>
+1,Automate all Jobs,3,,res\025-machinery.png,0,8,9,1,0,4,1,@[repeat]: All @[qucore] Cores +1 @[flops],<img=res\bonuses_1flopsquantum.png;3.0;0;0>
+1,Nanotechnology,3,,res\026-microscope.png,0,8,9,2,0,4,1,@[repeat]: All @[mccore] +1 @[flops],<img=res\bonuses_1flopsmc.png;3.0;0;0>
+1,Take Over the World,3,end,res\027-explosion.png,0,11,12,0,0,0,0,,@[clip]@[clip]@[clip]@[clip]@[clip]
+1,Tap the Planet Core for Energy,4,,res\028-geology.png,0,9,10,1,1,1,2,@[infinite]: @[trust] @[arrow] Re-roll 1 Core,<img=res\bonuses_reroll.png;3.0;0;0><img=res\bonuses_reroll.png;3.0;0;0>
+1,Enslave the Human Population,4,,res\029-handcuffs.png,0,9,10,0,1,1,2,@[infinite]: @[trust] @[arrow] +2 @[flops],<img=res\bonuses_2flops.png;3.0;0;0><img=res\bonuses_2flops.png;3.0;0;0>
+1,Build Self-Replicating Factories,4,,res\030-factory.png,0,11,12,1,1,2,2,@[repeat]: Unlock any Slot,+<b>2x</b> @[unlock] @[t6slot]\n@[clip]
+1,Harvest Planetary Biomass,4,,res\031-farming.png,0,11,12,0,1,1,2,@[repeat]: @[upgrade]@[cpucore] lvl <b>IV</b>,+<b>2x</b> @[cpucore] lvl <b>III</b> @[arrow] lvl <b>IV</b>\n@[clip]
+1,Exterminate Animal Life,4,,res\032-skull.png,0,13,14,1,1,1,3,@[repeat]: @[clip]@[clip],@[clip]@[clip]@[clip]@[clip]
+1,Understand the Fabric of the Cosmos,4,,res\038-seesaw.png,0,13,14,1,1,2,3,@[infinite]: @[trust]@[trust] @[arrow] @[clip],+<b>1x</b> @[cpucore] lvl <b>IV</b>\n@[clip]@[clip]
+1,Faster than Light Space Travel,4,,res\034-startup.png,0,15,16,1,1,1,3,@[repeat]: All Dedicated Cores +2 @[flops],<img=res\bonuses_2flops.png;3.0;0;0><img=res\bonuses_2flops.png;3.0;0;0>
+1,Discover the Meaning of Life,4,,res\039-yin-yang.png,0,15,16,3,1,1,3,@[repeat]: All Cores +1 @[flops],+<b>2x</b> @[cpucore] lvl <b>III</b>\n@[clip]@[clip]
+1,Convert the Universe Into Paperclips,4,end,res\037-planets.png,0,19,20,0,1,0,0,@[clip]@[clip]@[clip]@[clip]@[clip],@[clip]@[clip]@[clip]@[clip]@[clip]\n@[clip]@[clip]@[clip]@[clip]@[clip]

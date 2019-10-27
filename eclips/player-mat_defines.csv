@@ -1,0 +1,38 @@
+Define,Value
+ExpandCost1,1  @[flops]
+ExpandCost2,1  @[flops]
+ExpandCost3,2  @[flops]
+ExpandCost4,6  @[flops] + @[trust]
+ExpandCost5,11  @[flops] + @[trust]@[trust]
+ExpandCost6,17  @[flops] + @[trust]@[trust]@[trust]
+ExpandText1,@[unlock] @[t1slot]
+ExpandText2,@[unlock] @[t2slot]
+ExpandText3,@[unlock] @[t3slot]
+ExpandText4,@[unlock] @[t4slot]
+ExpandText5,@[unlock] @[t5slot]
+ExpandText6,@[unlock] @[t6slot]
+ManufactureCost1,2  @[flops]
+ManufactureCost2,4 @[flops]
+ManufactureCost3,5  @[flops]
+ManufactureCost4,10  @[flops] + @[trust]
+ManufactureCost5,12  @[flops] + @[trust]
+ManufactureCost6,16 @[flops] + @[trust]@[trust]
+ManufactureText1,@[clip]
+ManufactureText2,+@[cpucore] lvl <b>I</b>
+ManufactureText3,@[clip]@[clip]
+ManufactureText4,@[clip]@[clip]@[clip]
+ManufactureText5,+@[cpucore]@[cpucore] lvl <b>I</b>
+ManufactureText6,@[clip]@[clip]@[clip]@[clip]
+UpgradeCost1,2  @[flops]
+UpgradeCost2,6 @[flops] + @[trust]
+UpgradeCost3,12 @[flops] + @[trust]@[trust]
+UpgradeText1,@[cpucore] lvl <b>I</b> @[arrow] lvl <b>II</b>
+UpgradeText2,@[cpucore] lvl <b>II</b> @[arrow] lvl <b>III</b>
+UpgradeText3,@[cpucore] lvl <b>III</b> @[arrow] lvl <b>IV</b>
+MaxCore1,Max\n1x @[cpucore]
+MaxCore2,Max\n2x @[cpucore]
+MaxCore3,Max\n3x @[cpucore]
+MaxCore4,Max\n4x @[cpucore]
+MaxCore5,Max\n5x @[cpucore]
+MaxCore6,Max\n6x @[cpucore]
+MaxProject,Max 4x @[cpucore]
