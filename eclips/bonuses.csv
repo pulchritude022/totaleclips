@@ -1,18 +1,18 @@
 Count,Bonus,Restriction,Description,Filename
-1,+1 @[flops],,,bonuses_1flops
-1,+2 @[flops],,,bonuses_2flops
-1,+3 @[flops],,,bonuses_3flops
-1,+1 @[flops],Project only,,bonuses_1flopsproject
-1,+1 @[flops],Unlock only,,bonuses_1flopsunlock
-1,+1 @[flops],Manufacture only,,bonuses_1flopsmanufacture
-1,+1 @[flops],Upgrade only,,bonuses_1flopsupgrade
-1,+1 @[flops],Millennium I @[cpucore],,bonuses_1flopsm1
-1,+1 @[flops],Millennium II @[cpucore],,bonuses_1flopsm2
-1,+1 @[flops],Millennium III @[cpucore],,bonuses_1flopsm3
-1,+1 @[flops],Quantum @[cpucore],,bonuses_1flopsquantum
-1,+1 @[flops],AI @[cpucore],,bonuses_1flopsai
-1,+1 @[flops],Multi-Core @[cpucore],,bonuses_1flopsmc
-1,+1 @[flops],@[lock] @[cpucore] only,All locked Cores (even blanks) get +1 FLOPS,bonuses_1flopslock
-1,+1 @[flops],Each @[cpucore],All Cores used in this algorithm get +1 FLOPS,bonuses_1flopsallcore
-1,@[repeat] @[cpucore],,Re-roll 1 CPU Core,bonuses_reroll
-1,Win Ties,Project Only,Win Ties for this project,bonuses_winties
+4,+1 @[flops],,,bonuses_1flops
+4,+2 @[flops],,,bonuses_2flops
+0,+3 @[flops],,,bonuses_3flops
+3,+1 @[flops],Project only,,bonuses_1flopsproject
+3,+1 @[flops],Unlock only,,bonuses_1flopsunlock
+0,+1 @[flops],Manufacture only,,bonuses_1flopsmanufacture
+3,+1 @[flops],Upgrade only,,bonuses_1flopsupgrade
+0,+1 @[flops],@[m1core] @[cpucore],,bonuses_1flopsm1
+0,+1 @[flops],@[m2core] @[cpucore],,bonuses_1flopsm2
+0,+1 @[flops],@[m3core] @[cpucore],,bonuses_1flopsm3
+1,+2 @[flops],@[qucore] @[cpucore],,bonuses_2flopsquantum
+0,+2 @[flops],@[aicore] @[cpucore],,bonuses_2flopsai
+1,+2 @[flops],@[mccore] @[cpucore],,bonuses_2flopsmc
+0,+1 @[flops],@[lock] @[cpucore] only,All locked Cores (even blanks) get +1 FLOPS,bonuses_1flopslock
+0,+1 @[flops],Each @[cpucore],All Cores used in this algorithm get +1 FLOPS,bonuses_1flopsallcore
+7,@[repeat] @[cpucore],,Re-roll 1 CPU Core,bonuses_reroll
+1,Win Ties,Project only,Win Ties for this project,bonuses_winties

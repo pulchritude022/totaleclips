@@ -1,8 +1,8 @@
 Define,Value
-clipimg,<img=res\paperclip_3.png;1.0;0;-6>
-clip,@[clipimg]
+clipimg,<img=res\paperclip_only.png;0.6;0;-6>
+clip,<img=res\paperclip_3.png;1.0;0;-6>
 trust,<img=res\trust.png;1.0;0;-6>
-repeat,<img=res\icons8-repeat-one-filled-100.png;1.0;0;-6>
+repeat,<img=res\icons8_reboot_100px_1.png;1.0;0;-6>
 infinite,<img=res\icons8-infinity-filled-100.png;1.0;0;-6>
 arrow,<img=res\icons8-right-100.png;1.0;0;-6>
 flops,FLOPS
@@ -29,3 +29,13 @@ m3core,Millennium III
 mccore,Multi-Core
 aicore,AI
 qucore,Quantum
+trackbonus1,@[clip]@[clip]\n@[trust]@[trust]
+trackbonus2,@[clip]@[clip]\n@[trust]
+trackbonus3,@[clip]\n@[trust]
+trackbonus4,\n@[trust]
+trackbonus5,\n@[trust]
+trackbonus6,
+trackbonus7,
+trackbonus8,
+trackbonus9,
+trackbonus10,
