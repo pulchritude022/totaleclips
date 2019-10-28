@@ -9,10 +9,19 @@ Built using [Version 1.0.0.2](https://github.com/nhmkdev/cardmaker/releases/tag/
 2. Extract and run `CardMaker.exe`
 3. Go to `File` | `Open Project...` and open `eclips/totaleclips.cmp`
 
+### VSCode
+VSCode is used to edit the `.md` files and produces a PDF of the Rules
+1. Download `Markdown PDF` by "yzane" in the VS Code Marketplace
+
 ## Development
 ### Export the project
 1. Click `File` | `Export Project to PDF...`
 2. Click `OK`
+
+### Create the Rules .pdf
+1. See "Development Setup" for VSCode setup
+2. `Ctrl` + `Shift` + `P` to open the command prompt
+3. Type `"export"` and select `Markdown PDF: Export (PDF)`
 
 ### Build 'Bonus Token' Images
 1. Right-click the "Bonuses" Layout and select `Export Card Layout as Images...`
