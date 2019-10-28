@@ -24,11 +24,13 @@ VSCode is used to edit the `.md` files and produces a PDF of the Rules
 3. Type `"export"` and select `Markdown PDF: Export (PDF)`
 
 ### Build 'Bonus Token' Images
-1. Right-click the "Bonuses" Layout and select `Export Card Layout as Images...`
-2. Set the `File Name Format` to `@[filename]`
-3. Set the output folder to `totaleclips\eclips\res`
-4. Click `OK`
-5. Press `F6` to "Refresh the Image Cache" to load the new images
+1. Click `Tools` | `Settings...` and disable `Print/Export Layout Border`. Click `OK`.
+2. Right-click the "Bonuses" Layout and select `Export Card Layout as Images...`
+3. Set the `File Name Format` to `@[filename]`
+4. Set the output folder to `totaleclips\eclips\res`
+5. Click `OK`
+6. Press `F6` to "Refresh the Image Cache" to load the new images
+7. Click `Tools` | `Settings...` and re-enable `Print/Export Layout Border`. Click `OK`.
 
 ## Troubleshooting
 #### Guide
