@@ -32,6 +32,7 @@ UpgradeCost3,@[trust]@[trust] + 12 @[flops]
 UpgradeText1,@[cpucore] lvl <b>I</b> @[arrow] lvl <b>II</b>
 UpgradeText2,@[cpucore] lvl <b>II</b> @[arrow] lvl <b>III</b>
 UpgradeText3,@[cpucore] lvl <b>III</b> @[arrow] lvl <b>IV</b>
+MaxCore0,Max\n0x @[cpucore]
 MaxCore1,Max\n1x @[cpucore]
 MaxCore2,Max\n2x @[cpucore]
 MaxCore3,Max\n3x @[cpucore]
